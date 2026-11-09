@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.22.2"},"description":"Music City Estates room server — 100-player district-room design (stage 3, locally proven), Railway-ready copy","engines":{"node":">=20"},"main":"server.mjs","name":"mce-room-server","private":true,"scripts":{"start":"node server.mjs"},"type":"module","version":"1.0.0"}
